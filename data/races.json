@@ -1,0 +1,314 @@
+{
+    "races": [
+        {
+            "id": "euskaldun-1",
+            "tournament": "euskaldun",
+            "tournamentLabel": "Euskaldun Txapelketa",
+            "title": "ZUMAIAKO SARIA",
+            "date": "2026-02-28",
+            "location": "ZUMAIA",
+            "organizer": "ZUMAIAKO TX. ELKARTEA",
+            "color": "#10b981"
+        },
+        {
+            "id": "euskaldun-2",
+            "tournament": "euskaldun",
+            "tournamentLabel": "Euskaldun Txapelketa",
+            "title": "XXIII. EREÑOKO UDALA SARI NAGUSIA",
+            "date": "2026-03-07",
+            "location": "EREÑO",
+            "organizer": "EREÑOKO GERANDAPE KIROL KLUBA",
+            "color": "#10b981"
+        },
+        {
+            "id": "euskaldun-3",
+            "tournament": "euskaldun",
+            "tournamentLabel": "Euskaldun Txapelketa",
+            "title": "XLV. SAN GREGORIO SARIA - XI. ASIER ARANCETA MEMORIALA",
+            "date": "2026-03-14",
+            "location": "BERRIATUA",
+            "organizer": "BERRIATUKO T.E.",
+            "color": "#10b981"
+        },
+        {
+            "id": "euskaldun-4",
+            "tournament": "euskaldun",
+            "tournamentLabel": "Euskaldun Txapelketa",
+            "title": "LI. GORLAKO IGOERA",
+            "date": "2026-03-15",
+            "location": "BERGARA",
+            "organizer": "LOKATZA Z.E.",
+            "color": "#10b981"
+        },
+        {
+            "id": "euskaldun-5",
+            "tournament": "euskaldun",
+            "tournamentLabel": "Euskaldun Txapelketa",
+            "title": "XXIX LAUKIZKO UDAL SARIA",
+            "date": "2026-03-21",
+            "location": "LAUKIZ",
+            "organizer": "GELA PEDAGOGIKOA A.C. Y DEPOR",
+            "color": "#10b981"
+        },
+        {
+            "id": "euskaldun-6",
+            "tournament": "euskaldun",
+            "tournamentLabel": "Euskaldun Txapelketa",
+            "title": "XXXV. SF-HAITZASKO OROIMENEZKOA",
+            "date": "2026-03-22",
+            "location": "MARKINA-XEMEIN",
+            "organizer": "MARKINA S.C.",
+            "color": "#10b981"
+        },
+        {
+            "id": "euskaldun-7",
+            "tournament": "euskaldun",
+            "tournamentLabel": "Euskaldun Txapelketa",
+            "title": "EUSKADIKO 23-AZPIKO ETA ELITE TXAPELKETAK 2026 - KLASIKA PRIMAVERA",
+            "date": "2026-04-05",
+            "location": "AMOREBIETA - ETXANO",
+            "organizer": "AMOREBIETA S.C.",
+            "color": "#10b981"
+        },
+        {
+            "id": "euskaldun-8",
+            "tournament": "euskaldun",
+            "tournamentLabel": "Euskaldun Txapelketa",
+            "title": "LXXIV SC LOINAZ TE PROBA 2026",
+            "date": "2026-04-18",
+            "location": "BEASAIN",
+            "organizer": "LOINAZ T.E.",
+            "color": "#10b981"
+        },
+        {
+            "id": "euskaldun-9",
+            "tournament": "euskaldun",
+            "tournamentLabel": "Euskaldun Txapelketa",
+            "title": "57 TROFEO EUSEBIO VELEZ - GRAN PREMIO MENDIZ",
+            "date": "2026-04-19",
+            "location": "DURANA",
+            "organizer": "DURANA P.C.",
+            "color": "#10b981"
+        },
+        {
+            "id": "euskaldun-10",
+            "tournament": "euskaldun",
+            "tournamentLabel": "Euskaldun Txapelketa",
+            "title": "LAZKAOKO LXXXIII. PROBA",
+            "date": "2026-04-25",
+            "location": "LAZKAO",
+            "organizer": "LAZKAOKO PEDALIER TX.K.K.",
+            "color": "#10b981"
+        },
+        {
+            "id": "euskaldun-11",
+            "tournament": "euskaldun",
+            "tournamentLabel": "Euskaldun Txapelketa",
+            "title": "NATXITUKO XXX TRIRRINDULARI LASTERKETA",
+            "date": "2026-05-09",
+            "location": "BARRIO NATXITUA-EA",
+            "organizer": "GERNIKESA S.C.",
+            "color": "#10b981"
+        },
+        {
+            "id": "euskaldun-12",
+            "tournament": "euskaldun",
+            "tournamentLabel": "Euskaldun Txapelketa",
+            "title": "II. GASTEIZKO PROBA",
+            "date": "2026-05-30",
+            "location": "VITORIA GASTEIZ",
+            "organizer": "TXIRRINDULARITXA KLUBA ALDAKETA DARRAI",
+            "color": "#10b981"
+        },
+        {
+            "id": "euskaldun-13",
+            "tournament": "euskaldun",
+            "tournamentLabel": "Euskaldun Txapelketa",
+            "title": "LXVIII. SAN JOAN TXIRRINDULARI PROBA",
+            "date": "2026-06-06",
+            "location": "SEGURA",
+            "organizer": "SEGURAKO TX. ELKARTEA",
+            "color": "#10b981"
+        },
+        {
+            "id": "euskaldun-14",
+            "tournament": "euskaldun",
+            "tournamentLabel": "Euskaldun Txapelketa",
+            "title": "DONE PEDRO SARI NAGUSIA 2026",
+            "date": "2026-06-07",
+            "location": "IRUN",
+            "organizer": "IRUNES CLUB CICLISTA",
+            "color": "#10b981"
+        },
+        {
+            "id": "euskaldun-15",
+            "tournament": "euskaldun",
+            "tournamentLabel": "Euskaldun Txapelketa",
+            "title": "MEMORIAL JOSE Mª ANZA",
+            "date": "2026-06-20",
+            "location": "TOLOSA",
+            "organizer": "ORIAKO TX. ESKOLA",
+            "color": "#10b981"
+        },
+        {
+            "id": "euskaldun-16",
+            "tournament": "euskaldun",
+            "tournamentLabel": "Euskaldun Txapelketa",
+            "title": "LXI ATAUN SAN MARTIN PROBA",
+            "date": "2026-06-21",
+            "location": "ATAUN",
+            "organizer": "AGAUNTZA KIROL ELKARTEA",
+            "color": "#10b981"
+        },
+        {
+            "id": "lehendakari-1",
+            "tournament": "lehendakari",
+            "tournamentLabel": "Lehendakari Txapelketa",
+            "title": "XXXXI PREMIO NTRA. SRA. ORO - IX MEMORIAL JOSE LUIS IBAÑEZ ARANA",
+            "date": "2026-06-27",
+            "location": "MURGIA",
+            "organizer": "ZUIA TXIRRINDULARI ELKARTEA",
+            "color": "#4a90e2"
+        },
+        {
+            "id": "lehendakari-2",
+            "tournament": "lehendakari",
+            "tournamentLabel": "Lehendakari Txapelketa",
+            "title": "MEMORIAL LETE-ANTZUOLA SARIA",
+            "date": "2026-07-12",
+            "location": "ANTZUOLA",
+            "organizer": "PEÑA AYASTUY",
+            "color": "#4a90e2"
+        },
+        {
+            "id": "lehendakari-3",
+            "tournament": "lehendakari",
+            "tournamentLabel": "Lehendakari Txapelketa",
+            "title": "DORLETAKO AMA XLVIII",
+            "date": "2026-07-19",
+            "location": "LEINTZ GATZAGA",
+            "organizer": "DORLETA TX. LAGUN ELKARTEA",
+            "color": "#4a90e2"
+        },
+        {
+            "id": "lehendakari-4",
+            "tournament": "lehendakari",
+            "tournamentLabel": "Lehendakari Txapelketa",
+            "title": "78. XANISTEBAN TXIRRINDULARI SARIA - TXOMIN PERURENAREN OROIMENEZKOA",
+            "date": "2026-08-02",
+            "location": "OIARTZUN",
+            "organizer": "OTXE OARSOALDEA TX. K. K.",
+            "color": "#4a90e2"
+        },
+        {
+            "id": "lehendakari-5",
+            "tournament": "lehendakari",
+            "tournamentLabel": "Lehendakari Txapelketa",
+            "title": "XII PREMIO AYTO. SOPELA",
+            "date": "2026-08-08",
+            "location": "SOPELA",
+            "organizer": "SOPELANA TXIRRINDULARI K.T.Z.",
+            "color": "#4a90e2"
+        },
+        {
+            "id": "lehendakari-6",
+            "tournament": "lehendakari",
+            "tournamentLabel": "Lehendakari Txapelketa",
+            "title": "GRAN PREMIO SAN ROMAN-MUXIKA",
+            "date": "2026-08-09",
+            "location": "BARRIO SAN ROMAN-48392-MUXIKA",
+            "organizer": "GERNIKESA S.C.",
+            "color": "#4a90e2"
+        },
+        {
+            "id": "lehendakari-7",
+            "tournament": "lehendakari",
+            "tournamentLabel": "Lehendakari Txapelketa",
+            "title": "72. CIRCUITO AIALA",
+            "date": "2026-08-15",
+            "location": "AMURRIO",
+            "organizer": "AMURRIO C.C.",
+            "color": "#4a90e2"
+        },
+        {
+            "id": "lehendakari-8",
+            "tournament": "lehendakari",
+            "tournamentLabel": "Lehendakari Txapelketa",
+            "title": "LXXXVII LEINTZ BAILARAKO ITZULIA",
+            "date": "2026-08-16",
+            "location": "ARETXABALETA",
+            "organizer": "ARETXABALETA U.D.",
+            "color": "#4a90e2"
+        },
+        {
+            "id": "lehendakari-9",
+            "tournament": "lehendakari",
+            "tournamentLabel": "Lehendakari Txapelketa",
+            "title": "LAUDIO SARIA",
+            "date": "2026-08-17",
+            "location": "LAUDIO",
+            "organizer": "LLODIANA S.C.",
+            "color": "#4a90e2"
+        },
+        {
+            "id": "lehendakari-10",
+            "tournament": "lehendakari",
+            "tournamentLabel": "Lehendakari Txapelketa",
+            "title": "LXXIX MEMORIAL ETXANIZ",
+            "date": "2026-08-23",
+            "location": "ELGOIBAR",
+            "organizer": "GURE BIDE TX. ELKARTEA",
+            "color": "#4a90e2"
+        },
+        {
+            "id": "lehendakari-11",
+            "tournament": "lehendakari",
+            "tournamentLabel": "Lehendakari Txapelketa",
+            "title": "LXXV SAN BARTOLOME SARI NAGUSIA-GERNIKA",
+            "date": "2026-08-24",
+            "location": "BARRIO RENTERIA-GERNIKA",
+            "organizer": "GERNIKESA S.C.",
+            "color": "#4a90e2"
+        },
+        {
+            "id": "lehendakari-12",
+            "tournament": "lehendakari",
+            "tournamentLabel": "Lehendakari Txapelketa",
+            "title": "SAN BARTOLOME SARIA",
+            "date": "2026-08-29",
+            "location": "ZEGAMA",
+            "organizer": "ELKARTU NAHI T.E.",
+            "color": "#4a90e2"
+        },
+        {
+            "id": "lehendakari-13",
+            "tournament": "lehendakari",
+            "tournamentLabel": "Lehendakari Txapelketa",
+            "title": "XXXVII ANDRA MARI SARI NAGUSIA",
+            "date": "2026-09-06",
+            "location": "URDULIZ",
+            "organizer": "PUNTA GALEA T.E.",
+            "color": "#4a90e2"
+        },
+        {
+            "id": "lehendakari-14",
+            "tournament": "lehendakari",
+            "tournamentLabel": "Lehendakari Txapelketa",
+            "title": "ANDRA MARI TXIKI SARIA 2026",
+            "date": "2026-09-12",
+            "location": "AMURRIO",
+            "organizer": "KUSKUMENDI MTB C.D.",
+            "color": "#4a90e2"
+        },
+        {
+            "id": "lehendakari-15",
+            "tournament": "lehendakari",
+            "tournamentLabel": "Lehendakari Txapelketa",
+            "title": "XXXIX OÑATI PROBA",
+            "date": "2026-09-12",
+            "location": "OÑATI",
+            "organizer": "ALOÑA MENDI K.E.",
+            "color": "#4a90e2"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>📅 Calendario GOMUR 2026 - Equipo Ciclista Sub-23</title>
+    <meta name="description"
+        content="Calendario interactivo de carreras del equipo ciclista GOMUR Élite y Sub-23 para la temporada 2026">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="header-content">
+                <img src="imgs/icons/Logo_GOMUR.png" alt="Logo GOMUR" class="header-logo">
+                <h1 class="header-title">
+                    <span class="icon">🚴</span>
+                    Calendario GOMUR 2026
+                </h1>
+                <p class="header-subtitle">Equipo Ciclista Élite y Sub-23 · Temporada 2026</p>
+                <a href="https://www.equipogomur.com/" target="_blank" class="website-button">
+                    🌐 Visitar Web Oficial
+                </a>
+            </div>
+        </header>
+
+        <div class="filters-section">
+            <div class="filter-container">
+                <div class="chips-wrapper" id="chipsWrapper">
+                    <div class="chips-container" id="chipsContainer"></div>
+                    <span class="filter-hint">Click para filtrar</span>
+                </div>
+
+                <div class="dropdown" id="dropdown">
+                    <div class="dropdown-header">
+                        <input type="text" id="searchInput" placeholder="🔍 Buscar por filtro Torneo/Vuelta..."
+                            class="search-input">
+                    </div>
+                    <div class="dropdown-content" id="dropdownContent">
+                        <label class="checkbox-item select-all">
+                            <input type="checkbox" id="selectAll" checked>
+                            <span class="checkbox-label">Seleccionar todos</span>
+                        </label>
+                        <div class="divider"></div>
+                        <div id="checkboxList"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="calendar-container">
+            <div class="calendar-grid" id="calendarGrid"></div>
+        </div>
+
+        <footer class="footer">
+            <p>🏆 GOMUR - Equipo Ciclista Cantabria Deporte</p>
+        </footer>
+    </div>
+
+    <script src="js/main.js"></script>
+</body>
+
+</html>
